@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# SQLite databases
+*.db
+backend/data/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Env
+.env
