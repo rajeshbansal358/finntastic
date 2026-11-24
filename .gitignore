@@ -14,3 +14,6 @@ frontend/dist/
 
 # Env
 .env
+
+# Local snapshots
+.local_snapshot/
